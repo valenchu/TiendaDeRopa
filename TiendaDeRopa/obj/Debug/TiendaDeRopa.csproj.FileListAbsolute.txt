@@ -1,0 +1,12 @@
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\bin\Debug\TiendaDeRopa.exe.config
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\bin\Debug\TiendaDeRopa.exe
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\bin\Debug\TiendaDeRopa.pdb
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.csproj.AssemblyReference.cache
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.Properties.Resources.resources
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.csproj.GenerateResource.cache
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.csproj.CoreCompileInputs.cache
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.exe
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.pdb
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.formStock.resources
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.Form2.resources
+D:\Descargas\FinalCarrera\CursoC#Etermax\Formularios\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.HistoriaCotizaciones.resources

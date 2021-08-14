@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TiendaDeRopa.Model.Camiseta" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Model\Camiseta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiendaDeRopa.Model.Cotizacion">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAACAAAAAAAEAAAEVAEABFAFAAAQBIIECADABAAA=</HashCode>
+      <FileName>Model\Cotizacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiendaDeRopa.Model.Impresora">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAUQAAAAEAAAAAQAAAAAAAAAQAEAAAAAAAAg=</HashCode>
+      <FileName>Model\Impresora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiendaDeRopa.Model.Pantalon" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAgAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Pantalon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiendaDeRopa.Model.Prenda">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAEAAAAAAAAAAAAAAAAAAAAAABAIAAAACAAAAAA=</HashCode>
+      <FileName>Model\Prenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiendaDeRopa.Model.TiendaRopa">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAABAACAAQIACAECwAoABAAAAAAAAAAACAAAQAAAA=</HashCode>
+      <FileName>Model\TiendaRopa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiendaDeRopa.Model.Vendedor">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACEAAAAgAAACAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Model\Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
