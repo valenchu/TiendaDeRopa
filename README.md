@@ -23,3 +23,12 @@
 
 ## <A HREF="https://miro.com/app/board/o9J_l2KM_Rg=/"> Link a Miro UML Tienda de Ropa </A>
 
+
+## Video UML
+
+[![Watch the video](https://i.imgur.com/VZDqnTy.png)](https://www.loom.com/share/db79178e4d9c4b45bc1df3fd269bfb2e)
+
+## Video App
+
+[![Watch the video](https://i.imgur.com/DTcRkAH.png)](https://www.loom.com/share/ff94183cb5784f58b3a16bc040c19e71)
+
